@@ -9,10 +9,18 @@
     "express": "^4.17.1",
     "express-handlebars": "^3.1.0",
     "mongoose": "^5.9.16",
-    "node-bigcommerce": "^4.1.0"
+    "node-bigcommerce": "^4.1.0",
+    "streamwall": "github:obrien-k/streamwall#stream-dev"
   },
   "devDependencies": {
-    "handlebars": "4.5.0"
+    "bufferutil": "^4.0.1",
+    "eslint": "^7.9.0",
+    "handlebars": "^4.7.6",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-hotkeys-hook": "^2.3.1",
+    "styled-components": "^5.2.0",
+    "utf-8-validate": "^5.0.2"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
